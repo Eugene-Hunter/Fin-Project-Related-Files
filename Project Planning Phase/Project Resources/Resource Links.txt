@@ -1,0 +1,14 @@
+https://themewagon.com/loginsign-up-form-to-compliment-your-website/
+https://codepen.io/
+https://www.template.net/web-templates/htmlcss-templates/signup-form/
+https://colorlib.com/wp/templates/
+
+r-g-r cycle:		https://www.youtube.com/watch?v=EZ05e7EMOLM 
+triangulation:		https://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/
+progression:		https://8thlight.com/blog/georgina-mcfadyen/2016/06/27/inside-out-vs-outside-in.html
+integration testing:	https://martinfowler.com/bliki/IntegrationTest.html
+travis ci:		https://docs.travis-ci.com/user/tutorial/	
+daily builds:		https://joelonsoftware.com/2001/01/27/daily-builds-are-your-friend/
+source controls:	https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews
+product backlog		https://tech.gsa.gov/guides/#Agile
+pull requests:		https://blog.hyperiondev.com/index.php/2018/10/10/what-does-it-mean-to-become-a-code-reviewer/
